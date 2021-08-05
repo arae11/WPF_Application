@@ -1,0 +1,140 @@
+﻿<Window x:Class="WPF_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF0C0C0C">
+        <Button
+            x:Name ="LogIn"
+            Content="0"
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top"
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="132" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="456,356,0,0"/>
+        <Button 
+            x:Name ="LogOut"
+            Content="=" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="703,356,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy"
+            Content="." 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="621,356,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy1"
+            Content="3" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="621,285,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy2"
+            Content="2" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="538,285,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy3"
+            Content="1" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="456,285,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy4"
+            Content="4" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="456,217,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy5"
+            Content="5" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="538,217,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy6"
+            Content="6" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="621,217,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy7"
+            Content="9" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="621,149,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy8"
+            Content="8" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="538,149,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy9"
+            Content="7" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="456,149,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy10"
+            Content="=" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="703,285,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy11"
+            Content="=" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="703,285,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy12"
+            Content="=" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="703,217,0,0"/>
+        <Button 
+            x:Name ="LogOut_Copy13"
+            Content="=" 
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top" 
+            Click="Button_Click" 
+            Background="#FF423D3D" 
+            Foreground="White" Height="48" Width="50" FontWeight="Bold" FontFamily="TYPOGRAPH PRO" Margin="703,149,0,0"/>
+
+    </Grid>
+</Window>
